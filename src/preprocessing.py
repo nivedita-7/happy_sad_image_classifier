@@ -1,7 +1,7 @@
 import numpy as np
 from PIL import Image
 
-IMG_SIZE = (150, 150)
+IMG_SIZE = (256, 256)
 
 def preprocess_image(image):
     """

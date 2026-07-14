@@ -5,4 +5,4 @@ CLASS_NAMES = {
     1: "Sad 😢"
 }
 
-IMAGE_SIZE = (150,150)
+IMAGE_SIZE = (256, 256)
